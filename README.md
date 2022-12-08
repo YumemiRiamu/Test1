@@ -5,7 +5,7 @@
 ## 소스 코드
 
 
-...
+```
 import numpy as np
 import cv2
 
@@ -45,7 +45,7 @@ cv2.imshow('shape', img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-...
+```
 
 
 ### 인식 결과
