@@ -78,3 +78,5 @@ cv2.destroyAllWindows()
 
 
 ### 인식 결과
+
+<img src="/output.png">
